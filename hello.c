@@ -1,7 +1,7 @@
 /**
  * Author: Annalis Khemphomma
  *         akhemphomma2@huskers.unl.edu
- * Date: 8/26/2025
+ * Date: 8/28/2025
  *
  * A simple hello world program in C
  *
@@ -11,7 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Annalis Khemphomma\n");
+  printf("Annalis Khemphomma!\n");
+  printf("Electrical Engineer\n");
 
   return 0;
 }
